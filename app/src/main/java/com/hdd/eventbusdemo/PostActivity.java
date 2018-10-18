@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import org.greenrobot.eventbus.EventBus;
 
 /**
+ * 发送EventBus事件
  */
 public class PostActivity extends AppCompatActivity {
     @Override
